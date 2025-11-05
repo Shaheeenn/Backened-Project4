@@ -1,5 +1,3 @@
-// filename: urlModuleExample.js
-
 // Import the built-in 'url' module
 const url = require('url');
 
